@@ -1,0 +1,3 @@
+[submodule "Bcrypt.cpp"]
+	path = Bcrypt.cpp
+	url = https://github.com/hilch/Bcrypt.cpp
